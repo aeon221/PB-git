@@ -10,6 +10,7 @@ muslim = {
 	}
 	
 	sunni = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 3
@@ -30,6 +31,7 @@ muslim = {
 		max_wives = 4
 	}
 	zikri = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 3
@@ -42,6 +44,7 @@ muslim = {
 		max_wives = 4
 	}
 	yazidi = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 3
@@ -54,6 +57,7 @@ muslim = {
 		max_wives = 4
 	}
 	ibadi = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 3
@@ -66,6 +70,7 @@ muslim = {
 		max_wives = 4
 	}
 	shiite = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 4
@@ -87,6 +92,7 @@ muslim = {
 		max_wives = 4
 	}
 	bektashi = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 4
@@ -99,6 +105,7 @@ muslim = {
 		max_wives = 4
 	}
 	druze = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 4
@@ -111,6 +118,7 @@ muslim = {
 		max_wives = 4
 	}
 	hurufi = {
+		allow_looting = yes
 		graphical_culture = muslimgfx
 
 		icon = 4
