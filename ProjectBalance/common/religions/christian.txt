@@ -4,6 +4,7 @@ christian = {
 	crusade_cb = crusade
 	playable = yes
 	pacifist = yes # Will make Hordes lose their super aggressiveness
+	allow_looting = yes
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
