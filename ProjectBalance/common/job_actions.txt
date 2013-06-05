@@ -160,17 +160,17 @@ action_uncover_plots = {
 	events = { 929 931 9000 9020}
 }
 
-action_study_technology = {
+action_stir_revolt = {
 	attribute = intrigue
 	
 	trigger = {
-		has_higher_tech_than = FROM
 		any_province_lord = {
-			NOT = { is_liege_or_above = FROM }
 			NOT = { character = FROM }
+			NOT = { is_liege_or_above = FROM }
 		}
 	}
 	
+	local_revolt_risk = 0.01
 	events = { 932 933 }
 }
 
