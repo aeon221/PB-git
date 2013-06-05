@@ -37,12 +37,10 @@ christian = {
 		can_grant_invasion_cb = invasion
 		can_grant_claim = yes
 		can_call_crusade = yes
-		allow_looting = yes
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 	}
 	cathar = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 1
@@ -55,7 +53,6 @@ christian = {
 		religious_clothing_priest = 1
 	}
 	fraticelli = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 1
@@ -68,7 +65,6 @@ christian = {
 		religious_clothing_priest = 1
 	}
 	waldensian = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 1
@@ -81,7 +77,6 @@ christian = {
 		religious_clothing_priest = 1
 	}
 	lollard = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 1
@@ -95,7 +90,6 @@ christian = {
 	}
 	
 	orthodox = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 2
@@ -123,7 +117,6 @@ christian = {
 	}
 	
 	miaphysite = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 		
 		icon = 11
@@ -151,7 +144,6 @@ christian = {
 	}
 	
 	monophysite = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 11
@@ -173,7 +165,6 @@ christian = {
 	}
 	
 	bogomilist = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 2
@@ -187,7 +178,6 @@ christian = {
 	}
 	
 	nestorian = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 2
@@ -209,7 +199,6 @@ christian = {
 	}
 	
 	monothelite = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 2
@@ -231,7 +220,6 @@ christian = {
 	}
 	
 	iconoclast = {
-		allow_looting = yes
 		graphical_culture = westerngfx
 
 		icon = 2
