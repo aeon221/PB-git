@@ -180,7 +180,7 @@ job_spymaster = {
 	
 	action = action_uncover_plots
 	action = action_organize_spies
-	action = action_study_technology
+	action = action_incite_rebels
 
 	lift_neighbor_fow = yes
 }
