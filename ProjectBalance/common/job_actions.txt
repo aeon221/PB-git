@@ -160,7 +160,7 @@ action_uncover_plots = {
 	events = { 929 931 9000 9020}
 }
 
-action_stir_revolt = {
+action_incite_rebels = {
 	attribute = intrigue
 	
 	trigger = {
