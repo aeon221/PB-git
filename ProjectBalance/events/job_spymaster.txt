@@ -1655,8 +1655,7 @@ character_event = {
 	prisoner = no
 	
 	trigger = {
-		has_job_action = action_study_technology
-		location = { has_higher_tech_than = ROOT }
+		has_job_action = action_incite_rebels
 	}
 	
 	mean_time_to_happen = {
@@ -1732,8 +1731,7 @@ character_event = {
 	prisoner = no
 	
 	trigger = {
-		has_job_action = action_study_technology
-		location = { has_higher_tech_than = ROOT }
+		has_job_action = action_incite_rebels
 		location = {
 			any_province_lord = {
 				NOT = { is_liege_of = ROOT }
